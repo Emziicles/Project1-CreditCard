@@ -1,0 +1,8 @@
+Python Libraries
+
+MatPlotLib
+Pandas
+Numpy
+SciPy Stats (linregress)
+Seaborn
+SciPy Stats
