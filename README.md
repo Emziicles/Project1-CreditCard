@@ -105,13 +105,24 @@ FAO MOSES
 
 The first figure shows us the percentage of customers and the months they have been inactive for. We can see from this pie chart that those that have been inactive for 3  months  make up the largest percentage of customers. This is then further confirmed in figures 2 and 3.
 
+![Q3 Pie1](https://user-images.githubusercontent.com/88689661/146599914-5bfd0e0c-5a27-45a6-aaba-f2feb3f7fbaf.jpg)
+
+
 When using .describe() on the data frame, we can see that the mean for months inactive is 2.34, the standard deviation is 1.01 and the variance is 1.02. These values indicate that the data for months inactive are closer to the mean and are not spread out over a wide range.
 
 Figure 2 is a bar plot showing the number of months a customer was inactive before they left the bank. As can be seen on the plot, the number of customers increases until we reach 3 months, at this point there is a sharp drop off. Is 3 months without activity a trigger point? Perhaps the bank notifies the customer after 3 months of inactivity and this is what causes the customer to leave.
 
 Figure 3 is a bar plot showing the number of months existing customers have been inactive. As in figure 2, there is an increase until we get to 3 months before the number of customers sharply drops off. This supports the idea that the bank may send out notifications after 3 months of activity, causing these customers to start using the credit card again. Figure 4 is a combination of figures 2 and 3, comparing the number of months inactive for both existing and attrited customers on the same plot.
 
-Figure 5 is a stacked bar plot showing the number of months a customer has been with the bank for both existing and attrited customers. This plot shows us that for both existing and attrited customers, the highest number of customers were in the 30-39 months category. This data could support one of two ideas, the first being that the bank does not have the high churn rate that it anticipates. The second idea is that the credit card may have a certain length of time it has to be had for. 3 years (36 months) is within the 30-39 months category, and this can be supported by the fact that the mean for months on the books is 35.9. It may be that for customers to benefit from the rewards scheme, that they must sign up to have the credit card for 3 years. However, both standard deviation and variance are quite high, so we may not be able to rely on this data.
+![Q3 Graph1](https://user-images.githubusercontent.com/88689661/146600158-fc96698a-61bc-4391-b55d-c9b625666d6b.jpg)
+
+
+Figure 5 is a stacked bar plot showing the number of months a customer has been with the bank for both existing and attrited customers. This plot shows us that for both existing and attrited customers, the highest number of customers were in the 30-39 months category. 
+
+![Q3 Fig5](https://user-images.githubusercontent.com/88689661/146600358-23281bb8-4219-4c2f-8d10-e754f9080940.jpg)
+
+
+This data could support one of two ideas, the first being that the bank does not have the high churn rate that it anticipates. The second idea is that the credit card may have a certain length of time it has to be had for. 3 years (36 months) is within the 30-39 months category, and this can be supported by the fact that the mean for months on the books is 35.9. It may be that for customers to benefit from the rewards scheme, that they must sign up to have the credit card for 3 years. However, both standard deviation and variance are quite high, so we may not be able to rely on this data.
 
 This data indicates that 3 months inactive seems to be some kind of trigger point. The number of customers that are inactive following 3 months drops rapidly. If this is because the bank sends notifications out at 3 months of inactivity, perhaps the notification could be changed to include a further bonus or reward, to incentivize the customer to use their credit card again. 
 
