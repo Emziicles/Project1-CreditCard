@@ -22,6 +22,4 @@ Saving PNG images of your visualisations to disribute to the class and instructi
 (Optional) using at least one API if you can find an API with data applicable to your primary research questions.
 Create a write-up summarising your major findings. This should include a heading for each "Question you asked of your data and a short description of your findings and any other plots.
 
-***Scope of Research***
 
-...still to be determined...
