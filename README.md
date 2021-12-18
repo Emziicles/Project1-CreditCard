@@ -142,8 +142,18 @@ Finally, looking at the stacked bar chart which shows the number of dependents a
 
 To conclude, we believe the bank should target "low" earning customers with little to no education that have a "small" family when looking to provide a package which will keep them with the bank. This is because they show the highest number of attrition as well as the higest number of existing customers. This will allow the bank to offer better credit card packages to both existing and churned customers which solves the current problem they are facing. Alternatively, to imporve the amount of customers that stay with the bank packages can be tailored towards the "higher" earning, more educated and "large" family customers. However, this option is much higher risk as the customer base of the bank doesn not contain many customers which fall into these categories.
 ### Question 5 Analysis
-
 FAO Khadiza
+
+The first figure is a stacked horizontal bar chart showing the number of customers with each card (blue, silver, gold and platinum) per income category. It is evident that majority of the customers hold a blue card (93.2% of customers). The number of customers for each card category decreases as you go from blue to platinum. For the blue and silver card majority of the customers earn less than $40k. Whereas for the gold and platinum card most of the customers earn $60k-$80k. This might suggest that those with a lower income are less likely to hold a gold or platinum card, however 10% of the data contains unknown information regarding income. This may impact the results as the gold and platinum cards have a very low number of customers (116 and 20 respectively), therefore we are unable to make accurate conclusions.
+
+![Income Vs Card](https://user-images.githubusercontent.com/92734124/146634828-3e696c08-ccd2-4944-88c7-a1dc0c793971.JPG)
+
+
+In the next graph we compared the card categories againt the number of existing and attrited customers in a stacked bar chart. From the existing customers, 93.1% held a blue card, with the numbers decreasing as you go from blue to platinum (93.1%, 5.6%, 1.1% and 0.2% respectively). This trend was also apparent in the attrited customers where 93.4% held a blue card, 5% (silver), 1.3% (gold) and 0.3% (platinum). From this data we can assume that card category cannot indicate whether a customer is likely to churn as the pattern is very similar across existing and attrited customers.
+
+![Card Vs Attrited](https://user-images.githubusercontent.com/92734124/146634832-3fdd18f0-67aa-4367-98be-a50b28e3c5b4.JPG)
+
+To conclude, majority of the customers are likely to hold a blue card regardless of income, however those with a higher earning are more likely to hold a gold or platinum card. This suggests that the 'better' cards are less accessible to those who earn less than $60k. When comparing existing and attrited customers there is no clear correlation between card category and customer status, suggesting that card category would not be an ideal variable to focus on when trying to identify indicators of churning. There is no clear target to avoid churning.
 
 ### Question 6 Analysis
 
