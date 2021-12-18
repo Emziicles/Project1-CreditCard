@@ -130,15 +130,15 @@ This data indicates that 3 months inactive seems to be some kind of trigger poin
 
 The first figure shows a line graph which considers the income level and the attrition of customers. From the graph we can see that the majority of the customer base of the bank that are using credit cards fall into the "lower" income category; with both Existing Customers and Attrited Customers showing a high number of customers with income levels 'Less than $40k' and '40K-60K'. Further Analysising the graph we can say that generally speaking the higher the income the less likely a customer is going to churn. However, this may be a skewed conclusion as the number of customers decreases as income rises, which would require further analysis to determine.
 
-![download(8).png]
+![](https://github.com/Emziicles/Project1-CreditCard/blob/main/Images/download%20(8).png)
 
 Looking at the next figure; the horizontal bar chart shows the education level agains the number of customers. The chart shows which customers are 'Existing Customers' and which are 'Attrited Customers'. This further supports the statement made above with most customers of the bank being part of the "lower income categories - which can be seen in the high number of Existing and Attrited Customers which are only educated up until Graduate level in the American system. A well known general trend suggests that people with less education tend to earn less than people with 'Further Education' - this can also be seen in this dataset. Focusing on the Attrited Customers in the problem we are trying to solve, the 'Graduate' level education group shows the highest number of Attrited Customers closely followed by the 'High School' and 'Uneducated' level education groups. The "more" educated groups have significatnly fewer churned customers when comapred to the others.
 
-![download(9).png]
+![](https://github.com/Emziicles/Project1-CreditCard/blob/main/Images/download%20(9).png)
 
 Finally, looking at the stacked bar chart which shows the number of dependents agaisnt the number of customers. The chart also shows the customers which are 'Existing Customers' and 'Attrited Customers'. We are able to determine that the customers with "smaller" families tend to be the customers which take out credit cards with the bank. However, they also make up the majority of the customer base which may skew the data. From the graph we can also see that customers with "medium" sized families tend to churn slightly more than the customers with no dependents or only 1 dependent but shoe a significantly fewer number of existing customers. The bank has no customers with more than 5 dependants, this suggest that taking out a credit card from the bank with a "large" family is very unlikely.
 
-![download(10)]
+![](https://github.com/Emziicles/Project1-CreditCard/blob/main/Images/download%20(10).png)
 
 To conclude, we believe the bank should target "low" earning customers with little to no education that have a "small" family when looking to provide a package which will keep them with the bank. This is because they show the highest number of attrition as well as the higest number of existing customers. This will allow the bank to offer better credit card packages to both existing and churned customers which solves the current problem they are facing. Alternatively, to imporve the amount of customers that stay with the bank packages can be tailored towards the "higher" earning, more educated and "large" family customers. However, this option is much higher risk as the customer base of the bank doesn not contain many customers which fall into these categories.
 ### Question 5 Analysis
