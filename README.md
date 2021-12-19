@@ -99,7 +99,12 @@ Although the information from this data doesn't really identify an age group or 
 
 ### Question 2 Analysis
 
-FAO MOSES
+Figure 1 shows that female customers (5358) stayed more with the bank than their male (4769) counterparts. Meanwhile, customers who are married dominated marital categories with 4687 and this is followed by customers that are singles (3943) as well as customers that are divorced (748) stay with the banks as shown in Figure 2.
+
+figure 2 reviews that customers within the age group of 40 and 49 years old followed by age category of between 50 and 59 years stay with the bank.
+
+the result of the regression analysis shows that age of the customer is positively related to the number of months they have been with the banks. This suggests that as the customer advance in age by a year, the number of months they will stay with the bank will increase by 79%. In can be concluded that banks should channel resources such as cold calls, email sending and other forms of advertiment on femal, married and customers that are between 40 and 49 years of age who tend to stay with the banks.
+
 
 ### Question 3 Analysis
 
